@@ -1,11 +1,9 @@
 openapi: 3.0.0
 info:
-  title: RyouomoiChecker
+  title: MatumotoAPI
   version: '1.0'
   description: ''
 servers:
-  - url: 'https://ryouomoichecker.yt8492.com/api'
-    description: prod
   - url: 'http://localhost:8080'
     description: test
 paths:
